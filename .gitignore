@@ -1,0 +1,7 @@
+.modgit/
+app/etc/config.xml
+app/etc/local.xml.additional
+app/etc/local.xml.template
+app/etc/local.xml
+media/catalog/product/cache/
+var/
